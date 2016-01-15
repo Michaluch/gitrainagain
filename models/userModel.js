@@ -1,3 +1,4 @@
+// This model implement user instance
 User = function (this){
    name = this.name;
    full_name = this.fulname;
